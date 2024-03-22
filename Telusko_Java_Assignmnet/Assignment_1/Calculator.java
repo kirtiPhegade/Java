@@ -56,3 +56,17 @@ public class Calculator {
         op.goToOpretions();
     }
 }
+
+/*Output
+ Enter two number
+2
+7
+Which Operation you want to perform
+Add
+Subtract
+Multiply
+Division
+Select any one
+subtract
+2-7=-5
+ */
